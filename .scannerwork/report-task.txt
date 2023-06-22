@@ -1,0 +1,6 @@
+projectKey=Contact
+serverUrl=http://localhost:9000
+serverVersion=10.0.0.68432
+dashboardUrl=http://localhost:9000/dashboard?id=Contact
+ceTaskId=AYjhpmc6dKrt2RQ_LyJl
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYjhpmc6dKrt2RQ_LyJl
